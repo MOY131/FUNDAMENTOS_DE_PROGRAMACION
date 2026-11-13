@@ -1,3 +1,5 @@
+package TEMA2;
+
 import java.util.Scanner;
 
 public class SISTEMA_DE_CALIFICACIONES {

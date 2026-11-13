@@ -1,4 +1,4 @@
-import jdk.swing.interop.SwingInterOpUtils;
+package TEMA2;
 
 import java.util.Scanner;
 

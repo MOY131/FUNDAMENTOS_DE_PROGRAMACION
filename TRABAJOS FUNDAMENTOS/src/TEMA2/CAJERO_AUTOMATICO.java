@@ -1,3 +1,5 @@
+package TEMA2;
+
 import java.util.Scanner;
 
 public class CAJERO_AUTOMATICO {

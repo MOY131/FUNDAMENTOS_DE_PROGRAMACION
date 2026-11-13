@@ -1,3 +1,5 @@
+package TEMA2;
+
 import java.util.Scanner;
 public class SISTEMA_DE_COBRO_DE_ESTACIONAMIENTO {
     static void main() {
@@ -46,7 +48,7 @@ public class SISTEMA_DE_COBRO_DE_ESTACIONAMIENTO {
 
                 double totalAPagar = subtotal - descuento;
 
-                System.out.println("--- TICKET DE ESTACIONAMIENTO ---");
+                System.out.println("--- RESUMEN DEL DIA ---");
                 System.out.println("Tipo de vehiculo: " + nombreVehiculo);
                 System.out.println("Horas de estancia: " + horas);
                 System.out.println("Tarifa por hora: $" + tarifaAplicada);
