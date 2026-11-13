@@ -26,8 +26,6 @@ public class GENERADOR_DE_CURP {
 
         String curp = generarCURP(nombre, paterno, materno, fecha, sexo, estado);
         System.out.println("CURP: " + curp);
-
-        scanner.close();
     }
 
     public static char obtenerPrimeraLetra(String palabra) {
